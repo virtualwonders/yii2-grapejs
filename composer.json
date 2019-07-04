@@ -1,0 +1,30 @@
+{
+    "name": "virtualwonders/yii2-grapejs",
+    "version": "1.0.0",
+    "description": "An asset bundle for the GrapeJS web builder framework.",
+    "keywords": ["yii2","extension","assets","asset bundle","grapejs"],
+    "type": "yii2-extension",
+    "require": {
+        "php": ">=7.1.0",
+        "yiisoft/yii2": "~2.0.14",
+        "yiisoft/yii2-bootstrap4": "^2.0",
+        "virtualwonders/fontawesome": ">=1.0.0"
+    },
+    "require-dev": {
+        "yiisoft/yii2-debug": "~2.1.0",
+        "yiisoft/yii2-gii": "~2.1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Virtual Wonders Web Solutions",
+            "email": "group-devs@virtual-wonders.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "virtualwonders\\grapejs\\": ""
+        }
+    }
+}
