@@ -1,6 +1,6 @@
-GrapeJS
-=======
-An asset bundle for the [GrapeJS](https://grapesjs.com/) web builder framework.
+GrapesJS
+========
+An asset bundle for the [GrapesJS](https://grapesjs.com/) web builder framework.
 
 Installation
 ------------
