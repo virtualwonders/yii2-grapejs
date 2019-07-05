@@ -1,15 +1,15 @@
 <?php
 
-namespace virtualwonders\grapejs;
+namespace virtualwonders\grapesjs;
 
 use yii\web\AssetBundle;
 
 /**
  * Main asset bundle.
  */
-class GrapeJsAsset extends AssetBundle
+class GrapesJsAsset extends AssetBundle
 {
-    public $sourcePath = '@virtualwonders/grapejs';
+    public $sourcePath = '@virtualwonders/grapesjs';
     public $css = [
         'https://unpkg.com/grapesjs/dist/css/grapes.min.css'
     ];
