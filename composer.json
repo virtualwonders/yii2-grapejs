@@ -1,6 +1,6 @@
 {
     "name": "virtualwonders/yii2-grapesjs",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "An asset bundle for the GrapesJS web builder framework.",
     "keywords": ["yii2","extension","assets","asset bundle","grapesjs","web builder"],
     "type": "yii2-extension",
