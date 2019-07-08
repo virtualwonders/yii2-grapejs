@@ -14,7 +14,8 @@ class GrapesJsAsset extends AssetBundle
         'https://unpkg.com/grapesjs/dist/css/grapes.min.css'
     ];
     public $js = [
-        'https://unpkg.com/grapesjs'
+        'https://unpkg.com/grapesjs',
+        'https://unpkg.com/grapesjs-indexeddb'
     ];
     public $depends = [
         'yii\web\YiiAsset',
